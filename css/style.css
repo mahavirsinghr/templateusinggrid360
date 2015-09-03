@@ -67,7 +67,7 @@ blockquote, blockquote p{
 
 p{
 	font-size: 13px;
-	line-height: 40px;
+	line-height: 30px;
 	color: #353535; 
 }
 h1,h2{
@@ -121,4 +121,29 @@ li{
 	height: 231px;
 }
  
- 
+ footer{
+ 	clear: both;
+ 	border-top:1px solid #d1d1d1;
+ 	padding-top: 18px;
+ 	margin-top: 30px;
+ }
+ .work h2,
+ .work h4{
+ 	font-weight: 26px;
+ 	font-size: 26px;
+ 	margin-bottom: 0;
+ }
+ .work h2,
+ {
+ 	margin-bottom: 0;
+ }
+ .work img{
+ 	margin-bottom: 20px;	
+ }
+ .work h4{
+ 	color:#787878;
+ 	line-height: 1.2em;
+ 	border-bottom: 1px solid #d1d1d1;
+ 	padding-bottom: 33px;
+ 	margin:30px;
+ }
